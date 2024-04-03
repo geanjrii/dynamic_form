@@ -1,0 +1,1 @@
+export 'new_car_repository.dart';
